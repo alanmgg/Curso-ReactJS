@@ -75,3 +75,9 @@ Crea componentes encapsulados que manejen su propio estado, y conviértelos en i
 
 ## 11. Pensando en React.
   - 11.1 Desarrollando un Mock en varios pasos.
+
+# Colaboradores.
+[Mora González Alan Francisco](https://github.com/alanmgg)
+[Rodríguez Campos Jorge](https://github.com/jorgerdc)
+
+[Documentación oficial](https://es.reactjs.org/)
